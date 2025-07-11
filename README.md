@@ -24,6 +24,20 @@ Algorithms like COMPAS are widely used to assist decisions in the criminal justi
 
 ---
 
+
+## 📁 Contents
+
+- `compas_audit.ipynb` — Data analysis, bias detection, and visual insights
+- Exploratory fairness metrics across race and outcome labels
+- Ethical commentary and suggestions for policy reform
+
+## 🎯 Goal
+
+Raise awareness about algorithmic justice, fairness tradeoffs, and the impact of opaque AI in criminal sentencing.
+
+---
+
+
 ## 🛠️ Tools & Technologies
 
 - `Python`, `Pandas`, `Matplotlib`
