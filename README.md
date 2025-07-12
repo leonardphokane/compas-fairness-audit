@@ -1,5 +1,7 @@
 # 🔍 COMPAS Fairness Audit
 
+![Fairness Inspector Badge](assets/fairness_inspector_badge.png)
+
 This repository presents a comprehensive analysis of bias in the COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) algorithm. Leveraging Python tools and fairness metrics, this project explores how race may influence risk assessment scores—and reflects on the ethical and policy implications of such systems in real-world justice contexts.
 
 ---
